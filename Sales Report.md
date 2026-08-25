@@ -6,13 +6,16 @@
 ## Dashboard screenshot
 <a href="https://github.com/subhsuliya/Excel-Project-Hub/blob/main/Screenshot%202026-08-25%20113647.png">Dashboard image</a>
 
-<img width="1498" height="869" alt="Screenshot 2026-08-25 113647" src="https://github.com/user-attachments/assets/fa3d6187-b6e2-439d-8f21-b0acdda698ea" />
 
 This repository features an interactive Excel analytics project that combines dynamic reporting dashboards, pie chart category breakdowns, and custom VBA macros. It is designed to transform raw datasets into clear visual insights while automating repetitive data processing tasks to streamline decision-making.
 
 This repository features an interactive Excel dashboard for city-based sales analysis, utilizing VBA macros and pivot tables to track sales executive performance.
 Key Features
 Interactive City Filtering: Includes slicers to instantly filter data across major cities such as Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, and Surat as shown in Screenshot 2026-08-25 113602.png.
+
+##Looking for Dashboard Lets Connect!!!!!!!!!!!
+
+<img width="1498" height="869" alt="Screenshot 2026-08-25 113647" src="https://github.com/user-attachments/assets/fa3d6187-b6e2-439d-8f21-b0acdda698ea" />
 
 Dynamic View Controls: Features interactive checkbox toggles allowing users to switch between distinct dashboard modules (Dashboard 1 through Dashboard 4) directly on the sheet based on Screenshot 2026-08-25 113602.png.
 Executive Performance Metrics: Tracks and displays exact figures for "Total Sales", "Target Hit % Wise", and "Away From Target %" for individual sales executives as seen in Screenshot 2026-08-25 113602.png.
